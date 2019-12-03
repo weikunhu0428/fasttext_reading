@@ -3,3 +3,4 @@
 ## 3. Word2Vec [post](https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281)
 ## 4. Skip-gram and Word2Vec [post](http://www.realworldnlpbook.com/blog/gentle-introduction-to-skipgram-word2vec-model-allennlp-ver.html)
 ## 5. Expanded fastText library now fits on smaller-memory devices [post](https://engineering.fb.com/ml-applications/expanded-fasttext-library-now-fits-on-smaller-memory-devices/)
+## 6. Official [website1](https://fasttext.cc/), [website2](https://research.fb.com/downloads/fasttext/)
