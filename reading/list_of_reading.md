@@ -4,3 +4,4 @@
 ## 4. Skip-gram and Word2Vec [post](http://www.realworldnlpbook.com/blog/gentle-introduction-to-skipgram-word2vec-model-allennlp-ver.html)
 ## 5. Expanded fastText library now fits on smaller-memory devices [post](https://engineering.fb.com/ml-applications/expanded-fasttext-library-now-fits-on-smaller-memory-devices/)
 ## 6. Official [website1](https://fasttext.cc/), [website2](https://research.fb.com/downloads/fasttext/)
+## 7. Fasttext tutoiral (good one)[post](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
