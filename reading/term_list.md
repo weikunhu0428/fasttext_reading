@@ -4,3 +4,4 @@
 ## softmax
 ## hierarchical softmax loss
 ## word2vec
+## tag prediction and sentiment analysis
