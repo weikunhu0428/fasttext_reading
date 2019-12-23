@@ -1,5 +1,7 @@
 # fasttext_reading
 
+## FastText [Paper](https://arxiv.org/pdf/1607.01759.pdf)
+
 ## Sentence Vectorization [link](https://github.com/facebookresearch/fastText/issues/323)
 
 ## 1. Shrinking fasttext through n-gram matrix [post](https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e), [github](https://gist.github.com/generall/68fddb87ae1845d6f54c958ed3d0addb)
