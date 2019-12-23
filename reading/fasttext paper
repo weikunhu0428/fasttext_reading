@@ -1,0 +1,4 @@
+fastText is on par with deep learning classifiers in terms of accuary, and many orders of magnitude faster for training and evaluation.
+
+The fastText model could be trained in less than ten mins with more tha none billion words using a standard multicore CPU, and classify half a million sentences among 312 K classes in less than a minutes.
+
