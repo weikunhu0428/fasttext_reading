@@ -9,7 +9,10 @@ Simple and efficient baseline for __sentence classifcation__ is to represent sen
 
 __N-gram__ feature: bag of words is invariant to word order but taking word order into account is often computationlly expensive. Instead, we use a bag of n-grams as additional features to capture some partial information about the local word order. This is efficient in practice while achieving comparable results to methods taht use the order.
 
-The fast and memory efficent mapping of the n grams could be achived by using hashing trick with same hashing function in [Mikolov (2011)](https://www.researchgate.net/profile/Lukas_Burget/publication/241637478_Strategies_for_training_large_scale_neural_network_language_models/links/542c14960cf27e39fa922ed3.pdf) and 10 M bins iwth bigrams, and 100M otherwise.
+The fast and memory efficent mapping of the n grams could be achived by using hashing trick with same hashing function in [Mikolov (2011)](https://www.researchgate.net/profile/Lukas_Burget/publication/241637478_Strategies_for_training_large_scale_neural_network_language_models/links/542c14960cf27e39fa922ed3.pdf) 
+
+and 10 M bins iwth bigrams, and 100M otherwise.
+
 
 
 
