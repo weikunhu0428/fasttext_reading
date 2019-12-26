@@ -1,6 +1,6 @@
 # fasttext_reading
-
-## FastText [Paper](https://arxiv.org/pdf/1607.01759.pdf)
+## FastText [Intro](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
+## FastText [Paper](https://arxiv.org/pdf/1607.01759.pdf) 2019/12/26
 
 ## Sentence Vectorization [link](https://github.com/facebookresearch/fastText/issues/323)
 
