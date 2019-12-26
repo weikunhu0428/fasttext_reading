@@ -1,0 +1,1 @@
+Train a simple neural network with a single hidden layer to perform a certain a task, but we are not actually going to use the neural network for the task. The goal is to learn the weights of the hidden layer, which is the word vector.
