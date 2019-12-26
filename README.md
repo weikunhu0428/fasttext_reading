@@ -1,4 +1,5 @@
 # fasttext_reading
+## Word2Vec [Tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/): Skip-gram model
 ## FastText [Intro](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
 ## FastText [Paper](https://arxiv.org/pdf/1607.01759.pdf) 2019/12/26
 
