@@ -1,1 +1,3 @@
 Train a simple neural network with a single hidden layer to perform a certain a task, but we are not actually going to use the neural network for the task. The goal is to learn the weights of the hidden layer, which is the word vector.
+
+We will train a neural network that given a word in the middle of a sentence (input word), look at the words nearby and pick one at random. The network provides the probability for every word in the vocabulary of being the nearby word that we chose. When I say "nearby", there is actually a "window size" parameter to the algorithm. A typical window size might be 5, meaning 5 words behind and 5 words ahead (10 in total).
