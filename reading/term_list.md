@@ -5,3 +5,5 @@
 ## hierarchical softmax loss
 ## word2vec
 ## tag prediction and sentiment analysis
+## hashing function
+## matrix (rank, linear algebra)
