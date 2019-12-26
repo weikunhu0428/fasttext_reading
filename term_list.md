@@ -9,3 +9,4 @@
 ## matrix (rank, linear algebra)
 ## [bigram](https://en.wikipedia.org/wiki/Bigram)
 ## CNN
+## auto-encoder
