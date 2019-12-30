@@ -19,3 +19,14 @@ Specifically, each output neuron has a weight vector which it multiplies against
 Note that neural network does not know anything about the offset of the output word relative to the input word. It does not learn a different set of probabilities for the word before the input versus the word after.
 
 If two different words have very similar “contexts” (that is, what words are likely to appear around them), then our model needs to output very similar results for these two words. And one way for the network to output similar context predictions for these two words is if the word vectors are similar. So, if two words have similar contexts, then our network is motivated to learn similar word vectors for these two words! 
+
+## Second Part [link](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+Running gradient descent on a neural network that large is going to be slow. And to make matters worse, you need a huge amount of training data in order to tune that many weights and avoid over-fitting. millions of weights times billions of training samples means that training this model is going to be a beast.
+
+The authors of Word2Vec addressed these issues in their second paper with the following two innovations:
+
+Subsampling frequent words to decrease the number of training examples.
+Modifying the optimization objective with a technique they called “Negative Sampling”, which causes each training sample to update only a small percentage of the model’s weights.
+
+It’s worth noting that subsampling frequent words and applying Negative Sampling not only reduced the compute burden of the training process, but also improved the quality of their resulting word vectors as well.
+
