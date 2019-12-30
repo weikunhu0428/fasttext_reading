@@ -1,6 +1,7 @@
 # fasttext_reading
-## Word2Vec [Tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/): Skip-gram model
+## Word2Vec [Tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/): Skip-gram model [reading notes](https://github.com/weikunhu0428/fasttext_reading/blob/master/reading/word2Vec_skip_gram.md)
 ## FastText [Intro](https://towardsdatascience.com/fasttext-under-the-hood-11efc57b2b3)
+## Bert [reading](http://mccormickml.com/)
 ## FastText [Paper](https://arxiv.org/pdf/1607.01759.pdf) 2019/12/26
 
 ## Sentence Vectorization [link](https://github.com/facebookresearch/fastText/issues/323)
